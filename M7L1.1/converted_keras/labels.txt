@@ -1,0 +1,2 @@
+0 Komputer
+1 Laptop
